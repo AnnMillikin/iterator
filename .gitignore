@@ -1,2 +1,4 @@
 target/
 lib/
+.idea/uiDesigner.xml
+out/
