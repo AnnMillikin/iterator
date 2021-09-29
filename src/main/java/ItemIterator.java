@@ -1,5 +1,3 @@
-package main.java;
-
 public class ItemIterator implements Iterator<Item> {
 
     private Item[] items;

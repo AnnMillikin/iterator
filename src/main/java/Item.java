@@ -1,5 +1,3 @@
-package main.java;
-
 public class Item {
     /* 	Create an Item class which will store the name of an item.
                 Create methods for getName() and setName(String name)

@@ -1,5 +1,3 @@
-package main.java;
-
 public class ItemCollection implements List<Item> {
     private Item[] items;
 
