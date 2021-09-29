@@ -1,4 +1,5 @@
 target/
 lib/
-.idea/uiDesigner.xml
+.idea/
 out/
+iterator-proj.iml
